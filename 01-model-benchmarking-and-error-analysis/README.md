@@ -4,15 +4,7 @@ This repository is a structured machine-learning portfolio focused on **model be
 
 The work is organized as a production-style ML project rather than a loose collection of notebooks. It demonstrates how to evaluate classical and neural learning algorithms under a controlled experimental protocol, preserve train/validation/test discipline, automate notebook execution, and communicate results in a form useful to technical reviewers, engineering managers, and AI/ML program stakeholders.
 
-## Portfolio Positioning
-
-This repository supports positioning for roles such as:
-
-- Machine Learning Engineer
-- Applied Machine Learning Engineer
-- AI/ML Technical Program Manager
-- ML Systems / AI Infrastructure TPM
-- Data Science / ML Platform roles
+## Portfolio Overview
 
 The emphasis is not only on training models, but on building an auditable evaluation workflow:
 
