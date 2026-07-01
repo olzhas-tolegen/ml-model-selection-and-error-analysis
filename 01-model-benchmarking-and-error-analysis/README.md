@@ -236,9 +236,7 @@ Expected local data placement:
 
 See [`data-policy.md`](./data-policy.md) for details.
 
-## What This Repository Demonstrates
-
-This repository demonstrates the following applied ML engineering capabilities:
+## What This Repository Contains
 
 - Dataset preparation and stratified sampling
 - Train/validation/test discipline
@@ -251,8 +249,6 @@ This repository demonstrates the following applied ML engineering capabilities:
 - Communication of results for technical and non-technical stakeholders
 
 ## Project Use
-
-This repository is intended to be reviewed as a portfolio artifact. The strongest review path is:
 
 1. Read this root `README.md`
 2. Open `portfolio-summary.md`
