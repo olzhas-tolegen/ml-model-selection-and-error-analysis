@@ -14,7 +14,7 @@ Subproject	Purpose
 | Projects | Status | Overview |
 |---|---|---| 
 | `01-model-benchmarking-and-error-analysis` | Active / Deployment-ready | Compare classical and neural supervised models using leakage-safe evaluation, runtime profiling, learning curves, and error analysis | Study optimizer behavior, regularization, seed stability, compute budgets, and training dynamics |
-| `02-neural-training-optimization-and-stability` | In progress |
+| `02-neural-training-optimization-and-stability` | In progress | Study optimizer behavior, regularization, seed stability, compute budgets, and neural-network training dynamics |
 | `03-representation-learning-and-clustering` | Planned | Analyze feature-space structure using clustering, PCA, ICA, randomized projections, and downstream neural-network evaluation |
 
 ## Reproducibility
