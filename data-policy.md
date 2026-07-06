@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This document defines how data is handled in the `ml-model-evaluation-and-optimization` repository.
+This document defines how data is handled in the `multiclass-model-selection-and-error-analysis` repository.
 
 The goal is to keep the public repository clean, lightweight, reproducible, and compliant with responsible data-management practices.
 
@@ -54,7 +54,7 @@ Datasets and generated artifacts are excluded for several reasons:
 Each project module may define its own local data layout. For the first module, the expected structure is:
 
 ```text
-01-model-benchmarking-and-error-analysis/
+multiclass-model-selection-and-error-analysis/
 └── data/
     ├── raw/
     │   └── covertype/
@@ -139,7 +139,7 @@ Notebook outputs should be cleared before committing.
 Before pushing to GitHub, run:
 
 ```bash
-cd 01-model-benchmarking-and-error-analysis
+cd multiclass-model-selection-and-error-analysis
 bash scripts/clean_outputs.sh
 ```
 
