@@ -4,18 +4,6 @@
   <strong>Production-oriented evaluation of five supervised learning families for imbalanced multiclass classification.</strong>
 </p>
 
-<p align="center">
-  <img src="assets/project-overview.png" alt="Applied ML model selection project overview" width="100%">
-</p>
-
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-blue">
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-Model%20Evaluation-orange">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-Neural%20Networks-red">
-  <img alt="Task" src="https://img.shields.io/badge/Task-Multiclass%20Classification-green">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Model%20Selection%20%7C%20Error%20Analysis-lightgrey">
-</p>
-
 ## Executive summary
 
 This project evaluates **Decision Tree, k-Nearest Neighbors, RBF Support Vector Machine, scikit-learn MLP, and a compact PyTorch MLP** on the Forest Covertype classification problem.
